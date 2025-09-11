@@ -1,3 +1,6 @@
 [submodule "jojoldu-copycat"]
 	path = jojoldu-copycat
 	url = https://github.com/pseudowasabi/jojoldu-copycat
+[submodule "inflearn-msa-lecture-lab"]
+	path = inflearn-msa-lecture-lab
+	url = https://github.com/pseudowasabi/inflearn-msa-lecture-lab

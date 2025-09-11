@@ -1,0 +1,3 @@
+[submodule "jojoldu-copycat"]
+	path = jojoldu-copycat
+	url = https://github.com/pseudowasabi/jojoldu-copycat

@@ -4,3 +4,6 @@
 [submodule "inflearn-msa-lecture-lab"]
 	path = inflearn-msa-lecture-lab
 	url = https://github.com/pseudowasabi/inflearn-msa-lecture-lab
+[submodule "copycat-react-app"]
+	path = copycat-react-app
+	url = https://github.com/pseudowasabi/copycat-react-app

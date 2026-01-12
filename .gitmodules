@@ -4,3 +4,6 @@
 [submodule "inflearn-msa-lecture-lab"]
 	path = inflearn-msa-lecture-lab
 	url = https://github.com/pseudowasabi/inflearn-msa-lecture-lab
+[submodule "programmingbitcoin"]
+	path = programmingbitcoin
+	url = https://github.com/pseudowasabi/programmingbitcoin

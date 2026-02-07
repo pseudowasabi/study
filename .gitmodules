@@ -7,3 +7,6 @@
 [submodule "programmingbitcoin"]
 	path = programmingbitcoin
 	url = https://github.com/pseudowasabi/programmingbitcoin
+[submodule "problem-solving"]
+	path = problem-solving
+	url = https://github.com/pseudowasabi/problem-solving

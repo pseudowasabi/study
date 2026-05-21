@@ -10,3 +10,6 @@
 [submodule "computer-vision-exercises"]
 	path = computer-vision-exercises
 	url = https://github.com/pseudowasabi/computer-vision-exercises.git
+[submodule "problem-solving"]
+	path = problem-solving
+	url = git@github.com:pseudowasabi/problem-solving.git
